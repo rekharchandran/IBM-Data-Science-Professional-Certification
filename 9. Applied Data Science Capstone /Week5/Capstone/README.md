@@ -20,4 +20,3 @@ A link to your Notebook on your GitHub repository pushed showing your code. (15 
 
 Your choice of a presentation or blog post. (10 marks)
 
-Here are examples of previous outstanding submissions that should give you an idea of what your report would look like, what your notebook would look like in terms of clean, clear, and well-commented code, and what your presentation would look like or your blog post would look like:
