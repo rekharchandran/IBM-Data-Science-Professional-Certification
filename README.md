@@ -14,9 +14,4 @@ Sr. No	Course
 9.	Applied Data Science Capstone
 
 # Resources
-Data Science Toolkit
-IBM Developer Skills Network : Data Science toolkit including JupyterLab, JupterNotebook, Apache Zeppelin, RStudio etc. in your browser.
-Google Colab : Practice Python in your browser and execute Machine learning Models with Google Colab.
-Online Notebook viewer : View jupyter notebooks online.
-Foursquare API : Foursquare API developer credentials portal.
-ArcGis : Search for an address with Python.
+
